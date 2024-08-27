@@ -1,3 +1,9 @@
+# For Citadel
+[Bb]in/
+[Bb]in-int/
+[Bb]uild/
+*.lua
+
 ## OSX artifacts
 .DS_Store
 
